@@ -1,4 +1,4 @@
-baseurl             = "https://jechas01.github.io/"
+baseurl             = "https://blog.jec.pw/"
 builddrafts         = false
 canonifyurls        = true
 contentdir          = "content"
