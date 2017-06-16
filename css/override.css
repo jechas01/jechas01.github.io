@@ -1,0 +1,12 @@
+/* override css styles of the main theme here */
+section.header {
+    padding-bottom: 30px;
+}
+
+section.icons {
+    padding-top: 30px;
+}
+
+section.main.post {
+    padding-bottom: 30px;
+}
