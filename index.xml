@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Josh Chase</title>
-    <link>https://jechas01.github.io/</link>
+    <link>https://blog.jec.pw/</link>
     <description>Recent content on Josh Chase</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 15 Jun 2017 23:46:54 -0400</lastBuildDate>
     
-	<atom:link href="https://jechas01.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.jec.pw/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>projects</title>
-      <link>https://jechas01.github.io/projects/</link>
+      <link>https://blog.jec.pw/projects/</link>
       <pubDate>Thu, 15 Jun 2017 23:46:54 -0400</pubDate>
       
-      <guid>https://jechas01.github.io/projects/</guid>
+      <guid>https://blog.jec.pw/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>about</title>
-      <link>https://jechas01.github.io/about/</link>
+      <link>https://blog.jec.pw/about/</link>
       <pubDate>Thu, 15 Jun 2017 23:45:51 -0400</pubDate>
       
-      <guid>https://jechas01.github.io/about/</guid>
+      <guid>https://blog.jec.pw/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>hello</title>
-      <link>https://jechas01.github.io/blog/hello/</link>
+      <link>https://blog.jec.pw/blog/hello/</link>
       <pubDate>Thu, 15 Jun 2017 23:06:25 -0400</pubDate>
       
-      <guid>https://jechas01.github.io/blog/hello/</guid>
+      <guid>https://blog.jec.pw/blog/hello/</guid>
       <description>Syntax highlighting test:
 fn main() { println!(&amp;quot;Hello, world!&amp;quot;); }  </description>
     </item>

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Josh Chase</title>
-    <link>https://jechas01.github.io/blog/</link>
+    <link>https://blog.jec.pw/blog/</link>
     <description>Recent content in Blog on Josh Chase</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 15 Jun 2017 23:06:25 -0400</lastBuildDate>
     
-	<atom:link href="https://jechas01.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.jec.pw/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>hello</title>
-      <link>https://jechas01.github.io/blog/hello/</link>
+      <link>https://blog.jec.pw/blog/hello/</link>
       <pubDate>Thu, 15 Jun 2017 23:06:25 -0400</pubDate>
       
-      <guid>https://jechas01.github.io/blog/hello/</guid>
+      <guid>https://blog.jec.pw/blog/hello/</guid>
       <description>Syntax highlighting test:
 fn main() { println!(&amp;quot;Hello, world!&amp;quot;); }  </description>
     </item>

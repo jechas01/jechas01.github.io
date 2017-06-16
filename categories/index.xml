@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Josh Chase</title>
-    <link>https://jechas01.github.io/categories/</link>
+    <link>https://blog.jec.pw/categories/</link>
     <description>Recent content in Categories on Josh Chase</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="https://jechas01.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://blog.jec.pw/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
